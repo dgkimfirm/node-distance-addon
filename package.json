@@ -1,0 +1,6 @@
+{
+  "name": "distance",
+  "version": "0.0.0",
+  "description": "Efficient distance calculator for NodeJS",
+  "private": true
+}
